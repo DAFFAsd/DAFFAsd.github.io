@@ -103,6 +103,7 @@ nav {
 
 .navbar-links {
     display: flex;
+    font-family:Montserrat, sans-serif;
 }
 
 .navbar-links a {
